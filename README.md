@@ -2,6 +2,9 @@
 
 *(work in progress)*
 
+
+![paper-535969_1920-02.jpeg](https://steemitimages.com/DQmYYGtbVkHgVC4H9h9Te5Y4yyMszK6WUFGy4vnfkfxC9Vr/paper-535969_1920-02.jpeg)
+
 This project is building a site where new Utopian users can find resources that help them to get acquainted with the Utopian.io platform quicker.
 
 
