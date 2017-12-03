@@ -22,9 +22,9 @@ The Help Center will have four main pages:
 (STATUS: **Complete**: *Layout and Design pending*)
 
 
-[Contributor's Quick Start Guide](https://imwatsi.github.io/utopian.io-help_center/quickstart_contributors.html)
+[Contributor's Quick Start Guide](quickstart_contributors.md)
 
-[Project Owner's Quick Start Guide](https://imwatsi.github.io/utopian.io-help_center/quickstart_project-owners.html)
+[Project Owner's Quick Start Guide](quickstart_project-owners.md)
 
 
 ## Knowledge Base
