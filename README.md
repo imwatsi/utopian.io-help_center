@@ -8,45 +8,46 @@
 This project is building a site where new Utopian users can find resources that help them to get acquainted with the Utopian.io platform quicker.
 
 
-The Help Center will have four main pages:
+The Help Center will have four main sections:
 
+- **FAQs**: Clear answers to common questions
 - **Quick Start Guides**: Getting started on Utopian.io
 - **Knowledge Base**: A deeper dive into the inner workings of Utopian.io
 - **Tutorials**: Learn skills that complement your Utopian experience
-- **FAQs**: Clear answers to common questions
 
 ---
 
+## FAQ
+
+- [What is Utopian.io?](faq/what-is-utopian.md)
+- [What is Steem?](faq/what-is-steem.md)
+- [Where do the rewards come from?](faq/where-do-the-rewards-come-from.md)
+- [Where do I find my wallet?](faq/where-do-i-find-my-wallet.md)
+- [How do I cash in my STEEM?](faq/how-can-i-cash-in-my-steem.md)
+- [How do I earn more rewards?](faq/how-do-i-earn-more-rewards.md)
+
 ## Quick Start Guides
 
-(STATUS: **Complete**: *Layout and Design pending*)
+*(Layout and Design pending)*
 
 
-[Contributor's Quick Start Guide](quickstart_contributors.md)
+[Contributor's Quick Start Guide](guides/quickstart_contributors.md)
 
-[Project Owner's Quick Start Guide](quickstart_project-owners.md)
+[Project Owner's Quick Start Guide](guides/quickstart_project-owners.md)
 
 
 ## Knowledge Base
 
-(STATUS: **Draft Concept**: *New content coming out soon*)
+*(Draft, New content coming out soon)*
 
 Comprehensive documentation of the utility that Utopian gives to users with tips and guidance on how to be effective on the platform.
 
 
 ## Tutorials
 
-(STATUS: **Draft Concept**: *New content coming out soon*)
+*(Draft, New content coming out soon)*
 
 How-to articles and videos that teach users how to do special tasks on Utopian that complement the Utopian experience.
-
-
-## FAQs
-
-
-(STATUS: **Draft Concept**: *New content coming out soon*)
-
-Frequently asked questions and their answers, categorized and logically sorted.
 
 ---
 
