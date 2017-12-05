@@ -10,7 +10,9 @@ To start sharing your work with the Utopian community, you’ll need to [create 
 
 ## The basics
 
-### - Your home page
+<br>
+
+### Your home page
 
 ![basics_overview](../assets/img/basics_overview.jpeg)
 
@@ -36,7 +38,9 @@ We recommend linking your GitHub account to your Utopian account so that you can
 
 This section shows your name, profile picture, “about me” text, when your Steem account was created and your current [voting power](#).
 
-### - The menu
+<br>
+
+### The menu
 
 ![menu_main](../assets/img/menu_main.jpeg)
 
@@ -70,7 +74,9 @@ Go to the settings page to customize your experience.
 
 This signs you out of Utopian. When signing back in, you will be redirected to SteemConnect.
 
-### - The Utopian feed
+<br>
+
+### The Utopian feed
 
 ![feed_main](../assets/img/feed_main.jpeg)
 
@@ -92,19 +98,25 @@ When browsing Utopian on laptop or desktop, a sidemenu appears to the left of th
 
 This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests](#).
 
-### - Search
+<br>
+
+### Search
 
 ![search_bar](../assets/img/search_bar.jpeg)
 
 A search bar is located right at the top of the page and you can use it to search for projects or contributions in various categories. Use it to find projects or contributions by keyword, or to find something specific.
 
-### - Settings
+<br>
+
+### Settings
 
 ![settings](../assets/img/settings.jpeg)
 
 This page allows you to customize your experience on Utopian. Currently, there is only the option to change the language, but more options will be made available soon. Utopian is rapidly developing and many changes are planned as it transitions to Version 2.
 
-### - The chat feature
+<br>
+
+### The chat feature
 
 Utopian has a chat feature that makes it possible to communicate in real time with project owners and other contributors you’re working with. Click the blue chat button in the bottom-right of the page to start chatting.
 
@@ -112,8 +124,9 @@ Utopian has a chat feature that makes it possible to communicate in real time wi
 
 ---
 
-
 ## Making a contribution
+
+<br>
 
 To start writing a post, click on the blue button with a **+** that’s in the top right area of the page
 
@@ -133,11 +146,15 @@ You will be taken to a page where you are asked to choose a category. Pick the c
 
 This will take you to a page where you can write your post and input all the other metadata that’s needed.
 
+<br>
+
 ### Choose GitHub Project
 
 ![write_project](../assets/img/write_project.jpeg)
 
 The first field you’ll see on the page is for the **GitHub Project** that you are contributing to. Enter keywords included in the GitHub repository name of the Open Source project you are writing about and press enter to choose from a list of projects pulled from GitHub.
+
+<br>
 
 ### Select pull requests (optional)
 
@@ -145,11 +162,15 @@ The first field you’ll see on the page is for the **GitHub Project** that you 
 
 If you’ve submitted pull requests to the project, a list of all the pull requests you submitted on GitHub will show up here. Choose the ones that are directly related to the work you are writing about.
 
+<br>
+
 ### Title of your contribution
 
 ![write_title](../assets/img/write_title.jpeg)
 
 Next, you’ll have to type in the title of your contribution. [Learn about the best practices of writing Contribution Titles](#).
+
+<br>
 
 ### Write the post
 
@@ -159,11 +180,15 @@ This area is where you will compose your contribution. You can enter text, uploa
 
 A preview of how your post looks will appear beneath the page. It is updated as you make changes and a draft is automatically saved to reduce the risk of losing your work.
 
+<br>
+
 ### Add tags
 
 ![write_tags](../assets/img/write_tags.jpeg)
 
 Tags allow your post to be searchable on Utopian and it is necessary to only use tags that are relevant to the contribution you are making. Examples of tags are: _bugs, design, logo, copywriting or translation_.
+
+<br>
 
 ### Choose your reward option
 
@@ -181,6 +206,8 @@ The other 50% will be in Steem Power, which is STEEM that is bound to a smart co
 
 This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](#).
 
+<br>
+
 ### Submitting the contribution
 
 Once you’re done writing your contribution and have added enough metadata, and selected your reward option, you can now submit your contribution to the Utopian moderation team by scrolling to the bottom of the page and clicking **Post**.
@@ -195,13 +222,19 @@ If all the required fields are met, your contribution will be placed in queue to
 
 ## The review process
 
+<br>
+
 When your contribution has been submitted successfully, expect your work to be reviewed by one of Utopian’s moderators within a few hours. Moderators check your submission for compliance with Utopian’s rules and quality expectations. They will leave a comment on your post if your submission needs to be corrected in any way.
+
+<br>
 
 ### Common reasons for moderator rejection include:
 
 *   Wrong category: you placed your contribution in the wrong category and will need to change it to the correct one
 *   Duplicate submission: your submission is for work or an issue that you or someone else has already submitted before (common with bug reports)
 *   Failure to meet quality expectations: every category has its own expectations for quality with some categories requiring specific content like pull requests, charts, links or other things that compile to form a complete submission with sufficient proof of work.
+
+<br>
 
 ### Responding to moderator requests
 
@@ -221,12 +254,18 @@ Your post will be reviewed again and when it has been accepted, a moderator will
 
 ## Your accepted contribution
 
+<br>
+
 Once your contribution is accepted, it will be visible to the Utopian community and eligible for being upvoted by the Utopian bot. It will be published on the Steem blockchain and will forever be available on the blockchain.
+
+<br>
 
 ### How much will it make?
 
 *   Every post that is approved by Utopian moderators has the chance to be rewarded by the Utopian voting bot. It uses algorithms to calculate the rewards that are given to each new contribution in relation to other contributions. Utopian has over 3 million Steem Power allocated to rewarding contributors and every contribution gets a share. Other opportunities to earn exist. Members of the community can also upvote your content and project owners can send you STEEM as rewards.
 *   How much a post earns depends on many variables, which include the category it falls under and the quality of the content. Ultimately, how much your contribution makes is determined mostly by the quality of your work, how it is received by the community and other agreements you may have with project owners.
+
+<br>
 
 ### When you will get paid
 
