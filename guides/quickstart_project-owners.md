@@ -12,11 +12,11 @@ To bring your project to the Utopian community, you first need to [create a Stee
 
 Once your Steem account is setup and you’ve successfully logged in, the next step is to link your GitHub account with your Utopian account. To do this, go to the **GitHub Connection** section, in the right side panel, and click **Synch with GitHub**.
 
-![sync_github_button](assets/img/sync_github_button.jpeg)
+![sync_github_button](../assets/img/sync_github_button.jpeg)
 
 This will take you to the following screen, if you are already logged in to GitHub:
 
-![sync_github_prompt](assets/img/sync_github_prompt.jpeg)
+![sync_github_prompt](../assets/img/sync_github_prompt.jpeg)
 
 _If you’re not logged in to GitHub, you will be asked to sign in._
 
@@ -28,7 +28,7 @@ It should take a few seconds to link your accounts and you will be brought to yo
 
 ## Your projects
 
-![projects_list](assets/img/projects_list.jpeg)
+![projects_list](../assets/img/projects_list.jpeg)
 
 To make your way to the Projects page from elsewhere on Utopian, click the **Projects** tab on the navigation menu. The Projects page will open, listing all the projects/repositories you currently have on GitHub.
 
@@ -42,13 +42,13 @@ A task request is an announcement you make detailing what your project needs and
 
 To create a new task request, click “Add task request” near the name of the project you’re viewing, at the top of the page.
 
-![tasks_new](assets/img/tasks_new.jpeg)
+![tasks_new](../assets/img/tasks_new.jpeg)
 
 Note: You must be on your project’s page, as described above, to see the option to add a task request for it. You can also click the blue icon beside your project’s name, in the “GitHub Connection” section, on the right side of the page.
 
 Next, you will be asked what you want contributors to do for your project. You can create task requests addressed to contributors specialized in many different areas, as seen in the image below.
 
-![tasks_categories](assets/img/tasks_categories.jpeg)
+![tasks_categories](../assets/img/tasks_categories.jpeg)
 
 Choose the one most appropriate for your task request and read the rules so that your task request will be accepted by the moderators.
 
@@ -64,7 +64,7 @@ Once you have read the rules and understood them, click **I understand. Proceed.
 
 #### GitHub project
 
-![write_project2](assets/img/write_project2.jpeg)
+![write_project2](../assets/img/write_project2.jpeg)
 
 The GitHub project you’re creating a task request for will be displayed here. This field is disabled by default. To change the project, leave the editor and select another project from the list on your **Projects** page.
 
@@ -72,7 +72,7 @@ The GitHub project you’re creating a task request for will be displayed here. 
 
 #### Write the title
 
-![write_title_tr](assets/img/write_title_tr.jpeg)
+![write_title_tr](../assets/img/write_title_tr.jpeg)
 
 Write the title of your task request here. Make sure your it relates to potential contributors by writing text that clearly portrays overall purpose of the task request. [Read tips on writing effective titles for your task requests](#).
 
@@ -80,7 +80,7 @@ Write the title of your task request here. Make sure your it relates to potentia
 
 #### Write the post
 
-![write_editor](assets/img/write_editor.jpeg)
+![write_editor](../assets/img/write_editor.jpeg)
 
 This is where you will write your task request. You can format text with a number of options, upload pictures and link to other sites. You can also [use Markdown or HTML to format your post](#).
 
@@ -90,7 +90,7 @@ Your task request should have enough information to let potential contributors k
 
 #### Add tags
 
-![write_tags](assets/img/write_tags.jpeg)
+![write_tags](../assets/img/write_tags.jpeg)
 
 Add tags that are relevant to your task request here. Tags are usually one or two word phrases that categorize your task request. If using two word phrases, you can join the words using a hyphen. Examples include _brainstorming, logo-design, how-to, testing, bug-hunting._
 
@@ -98,7 +98,7 @@ Add tags that are relevant to your task request here. Tags are usually one or tw
 
 #### Choose your reward option
 
-![write_reward](assets/img/write_reward.jpeg)
+![write_reward](../assets/img/write_reward.jpeg)
 
 Utopian gives you two ways in which to receive your STEEM rewards.
 
@@ -134,7 +134,7 @@ You can view the contributions made to any of your projects by navigating to the
 
 Utopian has a chat feature that makes it possible to communicate in real time with the contributors you’re working with. Click the blue chat button in the bottom-right of the page to start chatting.
 
-![chat-button](assets/img/chat-button.jpeg)
+![chat-button](../assets/img/chat-button.jpeg)
 
 ---
 
@@ -142,7 +142,7 @@ Utopian has a chat feature that makes it possible to communicate in real time wi
 
 On a particular project’s page, you can view all contributions made to it and filter your results by category. Just choose what you want to see on the navigation menu.
 
-![projects_filter](assets/img/projects_filter.jpeg)
+![projects_filter](../assets/img/projects_filter.jpeg)
 
 Using Utopian, you can manage all the work done and collaborate with the people working on your project through a combination of task requests and contributions.
 
@@ -158,7 +158,7 @@ Utopian rewards every contribution that passes moderator review and gets publish
 
 Rewards on the Steem blockchain are passed on to other people through voting, and the amount of [Steem Power](#) an account has affects the power of its vote. The more the Steem Power, the more valuable the vote is.
 
-![projects_sponsorship](assets/img/projects_sponsorship.jpeg)
+![projects_sponsorship](../assets/img/projects_sponsorship.jpeg)
 
 The Sponsorship module (found on the right side of the screen) enables project owners to increase rewards by allowing them or other sponsors to delegate Steem Power to their project. In order to delegate Steem Power, an account must be powered up first.
 
