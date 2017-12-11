@@ -53,15 +53,25 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 ### Contributing on Utopian
 
 - [About contributing via Utopian](kb/contributors/about-contributing.md)
+- Contributor etiquette
+- The Utopian edge
 
 
 ### Managing projects on Utopian
 
-
+- About managing projects on Utopian
+- Creating effective task requests
+- The Utopian edge
 
 ### Understanding the Utopian-Steem relationship
 
-
+- Utopian is built on top of Steem
+- Reputation
+- The currencies involved
+- Steem Power
+- Steem's economic value
+- Voting power
+- Managing your Steem wallet
 
 
 ## Tutorials
