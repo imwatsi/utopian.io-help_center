@@ -69,8 +69,8 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 - Reputation
 - The currencies involved
 - Steem Power
-- Steem's economic value
 - Voting power
+- Steem's economic value
 - Managing your Steem wallet
 
 
