@@ -19,9 +19,13 @@ The Help Center will have four main sections:
 
 ## FAQ
 
+### General
+
 - [What is Utopian.io?](faq/what-is-utopian.md)
 - [What is Steem?](faq/what-is-steem.md)
 - [Where do the rewards come from?](faq/where-do-the-rewards-come-from.md)
+
+### Earning rewards
 - [Where do I find my wallet?](faq/where-do-i-find-my-wallet.md)
 - [How do I cash in my STEEM?](faq/how-can-i-cash-in-my-steem.md)
 - [How do I earn more rewards?](faq/how-do-i-earn-more-rewards.md)
@@ -44,9 +48,30 @@ The Help Center will have four main sections:
 
 ## Knowledge Base
 
-*(Draft, New content coming out soon)*
-
 Comprehensive documentation of the utility that Utopian gives to users with tips and guidance on how to be effective on the platform.
+
+### Contributing on Utopian
+
+- [About contributing via Utopian](kb/contributors/about-contributing.md)
+- Contributor etiquette
+- The Utopian edge
+
+
+### Managing projects on Utopian
+
+- About managing projects on Utopian
+- Creating effective task requests
+- The Utopian edge
+
+### Understanding the Utopian-Steem relationship
+
+- Utopian is built on top of Steem
+- Reputation
+- The currencies involved
+- Steem Power
+- Steem's economic value
+- Voting power
+- Managing your Steem wallet
 
 
 ## Tutorials
