@@ -4,7 +4,9 @@ Utopian is the place where contributors converge, connect, collaborate and disco
 
 ## Getting Started
 
-To start sharing your work with the Utopian community, you’ll need to [create a Steem account](#). That is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **SteemConnect**. Once you’re logged in, you can start making posts.
+To start sharing your work with the Utopian community, you’ll need to [create a Steem account](#). That is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **[SteemConnect](https://v2.steemconnect.com/)**. Once you’re logged in, you can start making posts.
+
+But before you start contributing, take some time and browse through the contributions on [Utopian.io](https://utopian.io) to get a feeling for what is possible and successful on the platform.
 
 ---
 
