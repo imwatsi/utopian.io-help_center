@@ -25,6 +25,12 @@ The Help Center will have four main sections:
 - [Where do I find my wallet?](faq/where-do-i-find-my-wallet.md)
 - [How do I cash in my STEEM?](faq/how-can-i-cash-in-my-steem.md)
 - [How do I earn more rewards?](faq/how-do-i-earn-more-rewards.md)
+- [Why do I see a sudden drop in earnings 7 days after I post?](faq/why-do-payouts-drop-after-7-days.md)
+- [How do the different payout modes work?](faq/how-do-the-different-payout-modes-work.md)
+- [What can I do to increase my vote?](faq/what-can-i-do-to-increase-my-vote.md)
+- [Why are some contributions rewarded more/less?](why-are-some-contributions-rewarded-more-less.md)
+- [My contribution was rewarded with a very low vote. What can I do?](faq/my-contribution-was-rewarded-with-a-very-low-vote-what-can-i-do.md)
+- [When does the bot vote come?](faq/when-does-the-bot-vote-come.md)
 
 ## Quick Start Guides
 
