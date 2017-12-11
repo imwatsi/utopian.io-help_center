@@ -50,7 +50,7 @@ Located in the top right corner is the menu button, which gives you a list of us
 
 #### New contribution
 
-This takes you to a page where you can begin writing a new post. [Learn how to write a new post](##making-a-contribution).
+This takes you to a page where you can begin writing a new post.
 
 #### New blog post
 
