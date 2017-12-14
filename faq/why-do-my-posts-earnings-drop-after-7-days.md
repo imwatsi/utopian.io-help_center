@@ -1,0 +1,3 @@
+# Why do my post's earnings drop 7 days after I post?
+
+The Steem blockchain calculates a post's payout using the current market price of the STEEM currency. When the price of STEEM goes up, all posts see an increase in the value of their payout amounts. When the price of STEEM goes down, all payout amounts decrease accordingly. Since every post's earnings are paid out seven days after it is published, the general price movement of STEEM during that time affects the amount your posts earn.
