@@ -40,7 +40,7 @@ The Help Center will have four main sections:
 
 ### Sharing contributions
 
-- [What do I do if I find a bug on Utopian?](faq/what-do-i-do-if-i-find-a-bug-on-utopian.md)
+- [What do I do if I find a bug on Utopian itself?](faq/what-do-i-do-if-i-find-a-bug-on-utopian.md)
 
 
 ## Quick Start Guides
