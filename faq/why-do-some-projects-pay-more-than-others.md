@@ -1,0 +1,3 @@
+# Why do some projects pay more than others?
+
+How many sponsors a project has, and how much they invest in it, directly affects the amount of rewards that contributions made to that project get. Projects with larger support from sponsors are able to give out higher rewards. Project owners can also sponsor their own projects, by buying STEEM and delegating Steem Power to their projects via Utopian, further increasing the amount of rewards they can distribute.

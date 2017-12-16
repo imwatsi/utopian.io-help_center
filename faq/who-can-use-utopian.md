@@ -1,4 +1,4 @@
-# Who can use Utopian
+# Who can use Utopian?
 
 Everyone is welcome to join the Utopian community. Open Source is central to Utopian's existence and as such, it is used by people who care about Open Source projects.
 
@@ -12,9 +12,9 @@ Everyone is welcome to join the Utopian community. Open Source is central to Uto
 
 **Project Owners use Utopian to:**
 - Find talented contributors to work with
+- Reward their contributors
 - Streamline their product development
 - Accelerate development in specific areas
 - Manage their projects by creating an environment of collaborative concord
-- Reward their contributors
 - Create a community around their project
 - Expose their project to more people
