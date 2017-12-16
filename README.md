@@ -30,7 +30,7 @@ The Help Center will have four main sections:
 ### Earning rewards
 
 - [Where do I find my wallet?](faq/where-do-i-find-my-wallet.md)
-- [How do I cash in my STEEM?](faq/how-can-i-cash-in-my-steem.md)
+- [How can I cash out my STEEM?](faq/how-can-i-cash-out-my-steem.md)
 - [How do I earn more rewards?](faq/how-do-i-earn-more-rewards.md)
 - [Why are my post's earnings less after 7 days?](faq/why-are-my-posts-earnings-less-after-7-days.md)
 - [How do the different reward options work?](faq/how-do-the-different-reward-options-work.md)
