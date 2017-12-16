@@ -1,3 +1,3 @@
 # Why are some contributions rewarded more/less?
 
-When contributions are upvoted by project owners, they express their level of satisfaction with your work and their perception of the value it brings to the project through the rewards vote to be distributed to your posts. Seeing posts with higher rewards than others signals a difference in value, difficulty of work and impact between the contributions. Contributions that project owners feel are bringing more value to their projects will have higher rewards.
+When contributions are upvoted by project owners, they express their level of satisfaction with your work and their perception of the value it brings to the project. Seeing posts with higher rewards than others signals a difference in value, impact or difficulty of work between the contributions, as judged by project owners. Contributions that project owners feel are bringing more value to their projects will have higher rewards.
