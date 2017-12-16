@@ -10,4 +10,4 @@ The other 50% will be in Steem Power, which is STEEM that is bound to a smart co
 
 #### 2) 100% STEEM POWER
 
-This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by ?powering down? your Steem account. [Learn more about the Steem blockchain?s economic model](#).
+This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by "powering down" your Steem account. [Learn more about the Steem blockchain?s economic model](#).
