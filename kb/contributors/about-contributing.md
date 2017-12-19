@@ -2,9 +2,9 @@
 
 Utopian is a place where contributors from all over the world can share the work that they are doing for Open Source projects and get rewards, visibility and recognition. It also serves as a social platform where contributors can form communities around the projects they care about. It enables them to coordinate their work, organize their task structures and collectively focus on milestones or roadmaps.
 
-Utopian works on a proof-of-work basis, on which contributions are accepted if they provide sufficient proof of the work that has been done. This normally means that contributions containing complete work, or a complete milestone of a larger work, will be accepted. [Utopian moderators review all contributions](#) to safeguard the platform from spammers and other ill-intentioned individuals.
+Utopian works on a proof-of-work basis, on which contributions are accepted if they provide sufficient proof of the work that has been done. This normally means that contributions containing complete work, or a complete milestone of a larger work, will be accepted. [Project moderators, or Utopian moderators, review all contributions](#) and only accept the contributions that meet their task requests or aim to improve the projects. This safeguards the platform from spammers and other ill-intentioned individuals.
 
-There are two basic ways in which you can share the work that you do for an Open Source project.
+There are two basic ways in which you can start contributing to Open Source projects via Utopian.
 
 <br>
 
