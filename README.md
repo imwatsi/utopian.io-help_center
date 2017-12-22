@@ -93,7 +93,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 - Steem Power
 - Your voting power
 - Steem's economic value
-- Managing your Steem wallet
+- [Managing your Steem wallet](kb/managing-your-steem-wallet.md)
 
 
 ## Tutorials
