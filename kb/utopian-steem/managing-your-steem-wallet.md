@@ -4,3 +4,20 @@ Many reminders are made during the account creation process, but this point cann
 
 ## Keeping your private keys safe
 
+- Do not store your cryptographic keys in plain text where untrusted people can access them
+- If you choose to store your keys on the cloud, consider encrypting the text files first before uploading them
+- Be careful not to paste your private keys in your posts by mistake as this will expose them to the whole world
+- Have sufficient backups of your private keys (both online and offline)
+- Whenever you feel that your keys have been compromised, quickly change your Steem master password, as this will also change all keys associated with your account.
+
+## Know your way around
+
+To avoid making mistakes with your Steem wallet, it helps to know your way around the wallet. Knowing how to perform actions in a safe manner will help you avoid costly mistakes. Your Steem wallet contains real and valuable currency and you should take care when using it.
+
+The following tutorials will help you learn how to manage your Steem wallet:
+
+- Changing your master password/owner key
+- Powering down your Steem account
+- Powering up your Steem account
+- Transferring STEEM or SBD to another Steem account
+- Exchanging STEEM/SBD on the internal market
