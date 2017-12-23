@@ -26,6 +26,7 @@ The Help Center will have four main sections:
 - [Where do the rewards come from?](faq/where-do-the-rewards-come-from.md)
 - [Who can use Utopian?](faq/who-can-use-utopian.md)
 - [Who can I talk with if I need more help?](faq/who-can-i-talk-with-if-i-need-more-help.md)
+- [How do I report abuse on Utopian?](faq/how-do-i-report-abuse-on-utopian.md)
 
 ### Earning rewards
 
@@ -40,7 +41,18 @@ The Help Center will have four main sections:
 
 ### Sharing contributions
 
+- [What types of contributions are allowed on Utopian?](faq/what-types-of-contributions-are-allowed-on-utopian.md)
+- [Why does Utopian have moderators?](faq/why-does-utopian-have-moderators.md)
+- [What do the moderators check for?]
+- [Does Utopian have a code of conduct?]
 - [What do I do if I find a bug on Utopian itself?](faq/what-do-i-do-if-i-find-a-bug-on-utopian.md)
+
+### Managing projects
+
+- [How do I find my project?]
+- [How do I find contributors to work with?]
+- [Do I need to invest money to reward my contributors?]
+- [Am I allowed to pay contributors with my own funding?]
 
 
 ## Quick Start Guides
@@ -81,7 +93,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 - Steem Power
 - Your voting power
 - Steem's economic value
-- Managing your Steem wallet
+- [Managing your Steem wallet](kb/utopian-steem/managing-your-steem-wallet.md)
 
 
 ## Tutorials
