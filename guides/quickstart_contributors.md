@@ -114,7 +114,7 @@ A search bar is located right at the top of the page and you can use it to searc
 
 ![settings](../assets/img/settings.jpeg)
 
-This page allows you to customize your experience on Utopian. Currently, there is only the option to change the language, but more options will be made available soon. Utopian is rapidly developing and many changes are planned as it transitions to Version 2.
+This page allows you to customize your experience on Utopian. Currently, there is only the option to change your default voting strength, but more options will be made available soon. Utopian is rapidly developing and many changes are planned as it transitions out of beta.
 
 <br>
 
