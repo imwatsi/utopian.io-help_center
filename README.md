@@ -42,7 +42,7 @@ The Help Center will have four main sections:
 ### Sharing contributions
 
 - [What types of contributions are allowed on Utopian?](faq/what-types-of-contributions-are-allowed-on-utopian.md)
-- [Why does Utopian have moderators?]
+- [Why does Utopian have moderators?](faq/why-does-utopian-have-moderators.md)
 - [What do the moderators check for?]
 - [Does Utopian have a code of conduct?]
 - [What do I do if I find a bug on Utopian itself?](faq/what-do-i-do-if-i-find-a-bug-on-utopian.md)
