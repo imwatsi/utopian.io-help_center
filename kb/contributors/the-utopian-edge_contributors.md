@@ -12,16 +12,16 @@ Utopian contributors are rewarded in cryptocurrency that is automatically distri
 
 Whenever you make contributions to Open Source projects via Utopian, you not only gain monetary rewards, but you gain other invaluable rewards too:
 
-- **Visibility**
+**Visibility**
 
 All contributions you share are recorded and stored permanently on the Steem blockchain. They build a public and immutable record of your work, therefore project owners, other contributors and anyone else interested in the projects you have worked on can discover you.
 
-- **Reputation**
+**Reputation**
 
 With a verifiable and trusted record of your work available for all to see, reputation is formed. As you work on Open Source projects and share your work on Utopian, you build a reputation amongst fellow Utopian members.
 
 
-- **Authority**
+**Authority**
 
 Consistent contributions create a resume that gives you authority in the fields of expertise you are involved in. Having it on the blockchain makes it easier for potential partners to know what you're good at, what you've worked on in the past and how you can work with them on future projects.
 
