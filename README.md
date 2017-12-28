@@ -74,7 +74,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 ### Contributing on Utopian
 
 - [About contributing via Utopian](kb/contributors/about-contributing.md)
-- The Utopian edge
+- [The Utopian edge](kb/contributors/the-utopian-edge_contributors.md)
 - Contributor etiquette
 
 
