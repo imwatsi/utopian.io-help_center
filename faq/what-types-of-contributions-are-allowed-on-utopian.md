@@ -1,6 +1,6 @@
 # What types of contributions are allowed on Utopian?
 
-As a general rule, any original work that adds value to an Open Source project can be shared on Utopian. 
+As a general rule, any original work that adds value to an Open Source project can be shared on Utopian. [See the contribution guidelines](#).
 
 Utopian does have categories into which one may post and these include the following:
 
