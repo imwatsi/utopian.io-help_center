@@ -23,6 +23,6 @@ With a verifiable and trusted record of your work available for all to see, repu
 
 **Authority**
 
-Consistent contributions create a resume that gives you authority in the fields of expertise you are involved in. Having it on the blockchain makes it easier for potential partners to know what you're good at, what you've worked on in the past and how you can work with them on future projects.
+Consistent contributions create a résumé that gives you authority in the fields of expertise you are involved in. Having it on the blockchain makes it easier for potential partners to know what you're good at, what you've worked on in the past and how you can work with them on future projects.
 
 *All these benefits combine to form **The Utopian Edge** that empowers Open Source contributors.*
