@@ -1,4 +1,4 @@
-# What do moderators check for?
+# What do the moderators check for?
 
 Projects have different needs that create varying expectations for contributions. The different categories that contributions fall into have their own requirements and guidelines. [See the contribution guidelines](#).
 
