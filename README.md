@@ -27,6 +27,7 @@ The Help Center will have four main sections:
 - [Who can use Utopian?](faq/who-can-use-utopian.md)
 - [Who can I talk with if I need more help?](faq/who-can-i-talk-with-if-i-need-more-help.md)
 - [How do I report abuse on Utopian?](faq/how-do-i-report-abuse-on-utopian.md)
+- [Does Utopian have a code of conduct?](faq/does-utopian-have-a-code-of-conduct.md)
 
 ### Earning rewards
 
@@ -43,8 +44,7 @@ The Help Center will have four main sections:
 
 - [What types of contributions are allowed on Utopian?](faq/what-types-of-contributions-are-allowed-on-utopian.md)
 - [Why does Utopian have moderators?](faq/why-does-utopian-have-moderators.md)
-- [What do the moderators check for?]
-- [Does Utopian have a code of conduct?]
+- [What do the moderators check for?](faq/what-do-the-moderators-check-for.md)
 - [What do I do if I find a bug on Utopian itself?](faq/what-do-i-do-if-i-find-a-bug-on-utopian.md)
 
 ### Managing projects
@@ -74,16 +74,16 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 ### Contributing on Utopian
 
 - [About contributing via Utopian](kb/contributors/about-contributing.md)
+- [The Utopian edge](kb/contributors/the-utopian-edge_contributors.md)
 - Contributor etiquette
-- The Utopian edge
 
 
 ### Managing projects on Utopian
 
 - About managing projects on Utopian
+- The Utopian edge
 - Creating effective task requests
 - Project sponsorship
-- The Utopian edge
 
 ### Understanding the Utopian-Steem relationship
 
