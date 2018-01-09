@@ -232,11 +232,16 @@ When your contribution has been submitted successfully, expect your work to be r
 
 ### Common reasons for moderator rejection include:
 
-*   Wrong category: you placed your contribution in the wrong category and will need to change it to the correct one
 *   Duplicate submission: your submission is for work or an issue that you or someone else has already submitted before (common with bug reports)
 *   Failure to meet quality expectations: every category has its own expectations for quality with some categories requiring specific content like pull requests, charts, links or other things that compile to form a complete submission with sufficient proof of work.
 
 <br>
+
+### Moderators may also make changes to your contribution themselves, under the following circumstances:
+
+*   Wrong category: you placed your contribution in the wrong category
+*   Wrong GitHub repository: you chose an incorrect GitHub repository for your contribution
+*   Irrelevant or unsuitable tags: you used tags that don't work well with your contribution
 
 ### Responding to moderator requests
 
