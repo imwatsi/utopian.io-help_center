@@ -80,7 +80,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 
 ### Managing projects on Utopian
 
-- About managing projects on Utopian
+- [About managing projects on Utopian](kb/project-owners/about-managing.md)
 - The Utopian edge
 - Creating effective task requests
 - Project sponsorship
