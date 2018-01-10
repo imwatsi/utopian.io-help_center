@@ -15,5 +15,5 @@ Task requests can be made to acquire contributions in the following categories:
 - Data Analysts
 - Influencers
 
-*More categories may be added. If you have a category that would like to see featured then feel free to [contact the Utopian moderators on Discord](https://discord.gg/UCvqCsx).*
+*More categories may be added. If you have a category that you would like to see featured then feel free to [contact the Utopian moderators on Discord](https://discord.gg/UCvqCsx).*
 
