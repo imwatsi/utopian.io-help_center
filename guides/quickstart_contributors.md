@@ -4,9 +4,9 @@ Utopian is the place where contributors converge, connect, collaborate and disco
 
 ## Getting Started
 
-To start sharing your work with the Utopian community, you’ll need to [create a Steem account](#). That is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **[SteemConnect](https://v2.steemconnect.com/)**. Once you’re logged in, you can start making posts.
+To start sharing your work with the Utopian community, you’ll need to [create a Steem account](https://signup.utopian.io/). That is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **[SteemConnect](https://v2.steemconnect.com/)**. Once you’re logged in, you can start making posts.
 
-But before you start contributing, take some time and browse through the contributions on [Utopian.io](https://utopian.io) to get a feeling for what is possible and successful on the platform.
+But before you start contributing, take some time and browse through the contributions on [Utopian.io](https://utopian.io) to get an idea of what is possible and successful on the platform.
 
 ---
 
@@ -62,7 +62,7 @@ See your Steem account’s activity in detail, on [steemd.com](#).
 
 #### Bookmarks
 
-See a list of posts that you have bookmarked in Utopian. [Learn how to bookmark a post](#).
+See a list of posts that you have bookmarked in Utopian.
 
 #### Drafts
 
@@ -216,7 +216,7 @@ Once you’re done writing your contribution and have added enough metadata, and
 
 If you have left out any important fields or entered incorrect data, your submission will not go through. The relevant fields will be highlighted in red and an explanation of the error shown next to them.
 
-If all the required fields are met, your contribution will be placed in queue to be reviewed by the moderators. You’ll see a message on the page informing you of this, as shown in the image below. [Learn why Utopian has moderators.](#)
+If all the required fields are met, your contribution will be placed in queue to be reviewed by the moderators. You’ll see a message on the page informing you of this, as shown in the image below. [Learn why Utopian has moderators.](faq/why-does-utopian-have-moderators.md)
 
 ![write_submission](../assets/img/write_submission.jpeg)
 
@@ -277,4 +277,4 @@ Once your contribution is accepted, it will be visible to the Utopian community 
 ### When you will get paid
 
 *   The Steem blockchain distributes rewards to contributors automatically, seven days after the day on which the post was published.
-*   Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](#)
+*   Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](kb/utopian-steem/managing-your-steem-wallet.md)
