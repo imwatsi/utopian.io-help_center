@@ -91,7 +91,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 - Reputation
 - The currencies involved
 - Steem Power
-- Your voting power
+- [Voting power](kb/voting-power.md)
 - Steem's economic value
 - [Managing your Steem wallet](kb/utopian-steem/managing-your-steem-wallet.md)
 
