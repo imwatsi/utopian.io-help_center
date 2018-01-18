@@ -1,4 +1,4 @@
-# Your voting power
+# Voting power
 
 Every Steem account has a dynamic voting power value allocated to it by the blockchain to allow it to vote or decide on who the daily rewards go to and how much. Every day, new STEEM tokens are created to reward people bringing the most value to the Steem ecosystem (as decided by the community) and every Steem account can decide how these rewards are distributed by upvoting posts made by other Steem account holders. The final result is a daily allocation of rewards distributed through what is called the "Proof-of-Brain" mechanism. [Learn more about this from the Steem.io website](https://steem.io/).
 
