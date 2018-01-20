@@ -52,7 +52,7 @@ The Help Center will have four main sections:
 - [How do I find my project?](faq/how-do-i-find-my-project.md)
 - [How do I find contributors to work with?](faq/how-do-i-find-contributors-to-work-with.md)
 - [Do I need to invest money to reward my contributors?](faq/do-i-need-to-invest-money-to-reward-my-contributors.md)
-- [Am I allowed to pay contributors with my own funding?]
+- [Can I pay contributors with my own funding?](faq/can-i-pay-contributors-with-my-own-funding.md)
 
 
 ## Quick Start Guides
