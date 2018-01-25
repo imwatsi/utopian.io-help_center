@@ -87,7 +87,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 
 ### Understanding the Utopian-Steem relationship
 
-- Utopian is built on top of Steem(kb/utopian-steem/utopian-is-built-on-top-of-steem.md)
+- [Utopian is built on top of Steem](kb/utopian-steem/utopian-is-built-on-top-of-steem.md)
 - Reputation
 - The currencies involved
 - Steem Power
