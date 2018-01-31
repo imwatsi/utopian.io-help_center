@@ -30,7 +30,7 @@ The section lists all the contributions you submitted to Utopian that **were rev
 
 ![basics_github](../assets/img/basics_github.jpeg)
 
-We recommend linking your GitHub account to your Utopian account so that you can easily reference your pull requests and projects, among other things. Your GitHub projects will show up here, if you’ve synchronized your account, or it will show you a button to synchronize your account if you haven’t. This section doesn’t show up when you’re using Utopian in mobile view. [Learn how to integrate your GitHub account](#).
+We recommend linking your GitHub account to your Utopian account so that you can easily reference your pull requests and projects, among other things. Your GitHub projects will show up here, if you’ve synchronized your account, or it will show you a button to synchronize your account if you haven’t. This section doesn’t show up when you’re using Utopian in mobile view.
 
 #### User Profile
 
@@ -38,7 +38,7 @@ We recommend linking your GitHub account to your Utopian account so that you can
 
 ![basics_profile2](../assets/img/basics_profile2.jpeg)
 
-This section shows your name, profile picture, “about me” text, when your Steem account was created and your current [voting power](#).
+This section shows your name, profile picture, “about me” text, when your Steem account was created and your current [voting power](/kb/utopian-steem/voting-power.md).
 
 <br>
 
@@ -58,7 +58,7 @@ Write a new blog post about Open Source related reflections, opinions or events.
 
 #### Activity
 
-See your Steem account’s activity in detail, on [steemd.com](#).
+See your Steem account’s activity in detail, on [steemd.com](https://steemd.com).
 
 #### Bookmarks
 
@@ -98,7 +98,7 @@ When browsing Utopian on laptop or desktop, a sidemenu appears to the left of th
 
 ![feed_sidemenu](../assets/img/feed_sidemenu.jpeg)
 
-This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests](#).
+This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests and contributing on Utopian](kb/contributors/about-contributing.md).
 
 <br>
 
@@ -206,7 +206,7 @@ The other 50% will be in Steem Power, which is STEEM that is bound to a smart co
 
 #### 2) 100% STEEM POWER
 
-This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](#).
+This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](https://steem.io).
 
 <br>
 
@@ -232,16 +232,16 @@ When your contribution has been submitted successfully, expect your work to be r
 
 ### Common reasons for moderator rejection include:
 
-*   Duplicate submission: your submission is for work or an issue that you or someone else has already submitted before (common with bug reports)
-*   Failure to meet quality expectations: every category has its own expectations for quality with some categories requiring specific content like pull requests, charts, links or other things that compile to form a complete submission with sufficient proof of work.
+- Duplicate submission: your submission is for work or an issue that you or someone else has already submitted before (common with bug reports)
+- Failure to meet quality expectations: every category has its own expectations for quality with some categories requiring specific content like pull requests, charts, links or other things that compile to form a complete submission with sufficient proof of work.
 
 <br>
 
 ### Moderators may also make changes to your contribution themselves, under the following circumstances:
 
-*   Wrong category: you placed your contribution in the wrong category
-*   Wrong GitHub repository: you chose an incorrect GitHub repository for your contribution
-*   Irrelevant or unsuitable tags: you used tags that don't work well with your contribution
+- Wrong category: you placed your contribution in the wrong category
+- Wrong GitHub repository: you chose an incorrect GitHub repository for your contribution
+- Irrelevant or unsuitable tags: you used tags that don't work well with your contribution
 
 ### Responding to moderator requests
 
@@ -269,12 +269,12 @@ Once your contribution is accepted, it will be visible to the Utopian community 
 
 ### How much will it make?
 
-*   Every post that is approved by Utopian moderators has the chance to be rewarded by the Utopian voting bot. It uses algorithms to calculate the rewards that are given to each new contribution in relation to other contributions. Utopian has over 3 million Steem Power allocated to rewarding contributors and every contribution gets a share. Other opportunities to earn exist. Members of the community can also upvote your content and project owners can send you STEEM as rewards.
-*   How much a post earns depends on many variables, which include the category it falls under and the quality of the content. Ultimately, how much your contribution makes is determined mostly by the quality of your work, how it is received by the community and other agreements you may have with project owners.
+- Every post that is approved by Utopian moderators has the chance to be rewarded by the Utopian voting bot. It uses algorithms to calculate the rewards that are given to each new contribution in relation to other contributions. Utopian has over 3 million Steem Power allocated to rewarding contributors and every contribution gets a share. Other opportunities to earn exist. Members of the community can also upvote your content and project owners can send you STEEM as rewards.
+- How much a post earns depends on many variables, which include the category it falls under and the quality of the content. Ultimately, how much your contribution makes is determined mostly by the quality of your work, how it is received by the community and other agreements you may have with project owners.
 
 <br>
 
 ### When you will get paid
 
-*   The Steem blockchain distributes rewards to contributors automatically, seven days after the day on which the post was published.
-*   Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](kb/utopian-steem/managing-your-steem-wallet.md)
+- The Steem blockchain distributes rewards to contributors automatically, seven days after the day on which the post was published.
+- Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](kb/utopian-steem/managing-your-steem-wallet.md)
