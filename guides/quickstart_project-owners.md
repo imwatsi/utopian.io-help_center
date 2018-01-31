@@ -4,7 +4,7 @@ Utopian helps connect project owners with valuable contributors, expediting the 
 
 ## Getting Started
 
-To bring your project to the Utopian community, you first need to [create a Steem account](#). This is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **SteemConnect**.
+To bring your project to the Utopian community, you first need to [create a Steem account](https://signup.utopian.io/). This is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **SteemConnect**.
 
 ---
 
@@ -110,7 +110,7 @@ The other 50% will be in Steem Power, which is STEEM that is bound to a smart co
 
 **2) 100% STEEM POWER**
 
-This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](#).
+This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](https://steem.io).
 
 <br>
 
@@ -162,7 +162,7 @@ Rewards on the Steem blockchain are passed on to other people through voting, an
 
 The Sponsorship module (found on the right side of the screen) enables project owners to increase rewards by allowing them or other sponsors to delegate Steem Power to their project. In order to delegate Steem Power, an account must be powered up first.
 
-To power up a Steem account, one needs to buy STEEM tokens and then transfer them to his/her account, and then commit that STEEM to a 13 week vesting contract which is called **Steem Power**. [Learn how to power up your Steem account](#) or [How to activate Sponsorship for your project](#).
+To power up a Steem account, one needs to buy STEEM tokens and then transfer them to his/her account, and then commit that STEEM to a 13 week vesting contract which is called **Steem Power**. [Learn how to power up your Steem account](#).
 
 <br>
 
