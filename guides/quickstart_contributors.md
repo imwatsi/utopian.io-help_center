@@ -98,7 +98,7 @@ When browsing Utopian on laptop or desktop, a sidemenu appears to the left of th
 
 ![feed_sidemenu](../assets/img/feed_sidemenu.jpeg)
 
-This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests and contributing on Utopian](kb/contributors/about-contributing.md).
+This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests and contributing on Utopian](/kb/contributors/about-contributing.md).
 
 <br>
 
@@ -216,7 +216,7 @@ Once you’re done writing your contribution and have added enough metadata, and
 
 If you have left out any important fields or entered incorrect data, your submission will not go through. The relevant fields will be highlighted in red and an explanation of the error shown next to them.
 
-If all the required fields are met, your contribution will be placed in queue to be reviewed by the moderators. You’ll see a message on the page informing you of this, as shown in the image below. [Learn why Utopian has moderators.](faq/why-does-utopian-have-moderators.md)
+If all the required fields are met, your contribution will be placed in queue to be reviewed by the moderators. You’ll see a message on the page informing you of this, as shown in the image below. [Learn why Utopian has moderators.](/faq/why-does-utopian-have-moderators.md)
 
 ![write_submission](../assets/img/write_submission.jpeg)
 
@@ -277,4 +277,4 @@ Once your contribution is accepted, it will be visible to the Utopian community 
 ### When you will get paid
 
 - The Steem blockchain distributes rewards to contributors automatically, seven days after the day on which the post was published.
-- Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](kb/utopian-steem/managing-your-steem-wallet.md)
+- Depending on the rewards option you choose when publishing the post, your rewards will either be in Steem Power alone or both Steem Power and Steem Blockchain Dollars (SBD). Both of these can be traded for other cryptocurrencies on exchanges, though Steem Power requires more time to withdraw. [Learn more about managing your STEEM wallet](/kb/utopian-steem/managing-your-steem-wallet.md)
