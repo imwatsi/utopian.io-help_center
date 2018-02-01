@@ -4,7 +4,7 @@ Utopian helps connect project owners with valuable contributors, expediting the 
 
 ## Getting Started
 
-To bring your project to the Utopian community, you first need to [create a Steem account](https://signup.utopian.io/). This is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **SteemConnect**.
+To bring your project to the Utopian community, you first need to [create a Steem account](https://steemit.com/pick_account). This is the Steem account you will login with on Utopian, using your private key (active or owner key, or master password) via the secure, Steemit Inc. operated signing service **SteemConnect**.
 
 ---
 
