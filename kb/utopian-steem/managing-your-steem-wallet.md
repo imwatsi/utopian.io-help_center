@@ -2,6 +2,13 @@
 
 Many reminders are made during the account creation process, but this point cannot be stressed enough: **your password/owner key is the only way to exercise ownership over your account and you should never lose it or expose it to unwarranted persons.** Therefore, *password* or *cryptographic key* protection is the most important aspect of managing a Steem wallet.
 
+A Steem account has a hierarchical key structure, with four different types of private keys that give particular account permissions:
+
+- **Owner Key:** this is the master key for your account, with ***all permissions***, and it has the power to change all the other keys
+- **Active Key:** this is used to to place market orders and to make currency transfers, and it also gives posting permissions
+- **Posting Key:** this is used for posting and voting on posts only
+- **Memo Key:** this is used to create and read memos only
+
 ## Keeping your private keys safe
 
 - Do not store your cryptographic keys in plain text where untrusted people can access them
