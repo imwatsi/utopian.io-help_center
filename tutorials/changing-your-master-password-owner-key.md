@@ -6,15 +6,15 @@ To change your Steem account's owner key, follow these steps:
 
 - Go to [steemit.com](https://www.steemit.com) and open the wallet page by clicking "Wallet" on the menu. You need to be logged in to change your password.
 
-![Wallet](..assets\img\tut_wallet.png)
+![Wallet](..assets/img/tut_wallet.png)
 
 - Click on "Password" in the menu below the main one.
 
-![Password](..assets\img\tut_password.png)
+![Password](..assets/img/tut_password.png)
 
 - Fill in the fields in the form to change your Password:
 
-![Password Form](..asset\img\tut_password_form.png)
+![Password Form](..asset/img/tut_password_form.png)
 
 **Account Name:** displays your current Steem account user name and it cannot be changed.
 

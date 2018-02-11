@@ -104,7 +104,7 @@ How-to articles and videos that teach users how to do special tasks on Utopian t
 
 ### Your Steem Account
 
-- [Changing your master password/owner key](tutorials\changing-your-master-password-owner-key.md)
+- [Changing your master password/owner key](tutorials/changing-your-master-password-owner-key.md)
 
 ---
 
