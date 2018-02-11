@@ -102,6 +102,10 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 
 How-to articles and videos that teach users how to do special tasks on Utopian that complement the Utopian experience.
 
+### Your Steem Account
+
+- [Changing your master password/owner key](tutorials\changing-your-master-password-owner-key.md)
+
 ---
 
 This site is still under development and an initial release is yet to be made. The site will be maintained and updated regularly, with more features being implemented as the Utopian platform evolves.
