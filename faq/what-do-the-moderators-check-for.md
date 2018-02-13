@@ -1,6 +1,6 @@
 # What do the moderators check for?
 
-Projects have different needs that create varying expectations for contributions. The different categories that contributions fall into have their own requirements and guidelines. [See the contribution guidelines](#).
+Projects have different needs that create varying expectations for contributions. The different categories that contributions fall into have their own requirements and guidelines. [See the contribution guidelines](https://utopian.io/rules).
 
 There are global aspects that most moderators will review and all contributions are checked for these. Examples include the contribution's relevance, quality, legality and usefulness.
 
