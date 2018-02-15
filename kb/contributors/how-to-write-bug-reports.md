@@ -137,5 +137,6 @@ For-profit software companies sometimes hire hundreds of people to test one appl
 Thank you for joining us in this effort to create a Free and Open World!
 
 **[@cahlen](https://steemit.com/@cahlen)**
+
 ![cahlen](https://ipfs.io/ipfs/Qmecmto92DpPHnQ7eKhgfkuGwR1UghLatHkPJ5Hm9C7JEq)
 
