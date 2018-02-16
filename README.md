@@ -108,6 +108,10 @@ How-to articles and videos that teach users how to do special tasks on Utopian t
 - [Powering up your Steem account](tutorials/powering-up-your-steem-account.md)
 - [Powering down your Steem account](tutorials/powering-down-your-steem-account.md)
 
+### Making Contributions
+
+- [How to write Bug Reports](tutorials/how-to-write-bug-reports.md)
+
 ---
 
 This site is still under development and an initial release is yet to be made. The site will be maintained and updated regularly, with more features being implemented as the Utopian platform evolves.
