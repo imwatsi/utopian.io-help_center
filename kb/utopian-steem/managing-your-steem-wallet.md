@@ -23,7 +23,7 @@ To avoid making mistakes with your Steem wallet, it helps to know your way aroun
 
 The following tutorials will help you learn how to manage your Steem wallet:
 
-- [Changing your master password/owner key](/tutorials/changing-your-master-password-owner-key.md)
+- [Changing your master password/owner key](../tutorials/changing-your-master-password-owner-key.md)
 - Powering up your Steem account
 - Powering down your Steem account
 - Transferring STEEM or SBD to another Steem account

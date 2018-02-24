@@ -6,19 +6,19 @@ To power down your Steem account, follow these steps:
 
 1) Go to [steemit.com](https://www.steemit.com) and open the wallet page by clicking "Wallet" on the menu. Please note that you need to be logged in to power down your account.
 
-![Wallet](/assets/img/tut_wallet.png)
+![Wallet](../assets/img/tut_wallet.png)
 
 2) Go down to the section where your account's Steem Power is shown and click the arrow near the amount.
 
-![Steem_Power](/assets/img/tut_steem-power.png)
+![Steem_Power](../assets/img/tut_steem-power.png)
 
 3) A menu will appear. Click **Power Down**, as shown below:
 
-![Power_Down](/assets/img/tut_power-down.png)
+![Power_Down](../assets/img/tut_power-down.png)
 
 4) A new window will be shown. Select the amount of Steem Power you would like to power down by using the slider or entering an amount in the text box. After you're done, click the **Power Down** button
 
-![Power_Down_Window](/assets/img/tut_power-down2.png)
+![Power_Down_Window](../assets/img/tut_power-down2.png)
 
 5) You'll be asked to enter your *owner key* or *active key* to authenticate the transaction.
 
