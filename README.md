@@ -18,7 +18,7 @@ The Help Center will have four main sections:
 
 ---
 
-This site is still under development. You can view a live version of it here: https://imwatsi.github.io/utopian.io-help_center/
+This site is still under development. You can view a live version of it here: https://imwatsi.github.io/utopian.io-help_center
 
 *The site will be maintained and updated regularly, with more features being implemented as the Utopian platform evolves.*
 
