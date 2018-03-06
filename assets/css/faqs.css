@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  background: silver;
+  text-align: left;
+}
+
+h3 {text-align: left;}
+p {
+    text-align: left;
+    font-size: 16px;
+}
+ul {
+    text-align: left;
+}
+
+/* Style the header */
+.header {
+    background: linear-gradient(to bottom, rgba(80,73,113,1), rgba(58,54,79,1));
+    padding: 20px;
+    color: #CDC5F2;
+    text-align: center;
+}
+
+.faq_div {
+   width:80vw;
+   margin-top: 75px;
+   margin-bottom: 10px;
+   padding: 0;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ccc;
+    color: white;
+}
+
+/* Style the footer */
+.footer {
+    background-color: rgba(44,44,44,0.5);
+    padding: 10px;
+    text-align: center;
+}
+
+ul.topnav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+
+.button {
+    background-color: #6859AF;
+    border: none;
+    width: 180px;
+    height: 180px;
+    color: silver;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: rgba(80,73,113,0.25);
+    color: black;
+    border: none;
+}
+
+.button1:hover {
+    background-color: #6859AF;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.48), 0 17px 50px 0 rgba(0,0,0,0.38);
+}
