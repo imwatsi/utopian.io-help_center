@@ -20,13 +20,18 @@ body {
 }
 
 .logo_img {
-   max-width:100%;
+   max-width:80%;
    height:auto;
-   max-height:100%;
+   max-height:80%;
 }
 
 /* Style the footer */
 .footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
     background-color: rgba(44,44,44,0.5);
     padding: 10px;
     text-align: center;
@@ -35,10 +40,10 @@ body {
 .button {
     background-color: #6859BF;
     border: none;
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
     color: silver;
-    padding: 16px 16px;
+    padding: 12px 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -50,13 +55,14 @@ body {
 }
 
 .button1 {
-    background-color: rgba(80,73,113,0.25);
+    background-color: rgba(80,73,113,0.60);
     color: black;
     border: none;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.16), 0 11px 25px 0 rgba(0,0,0,0.25);
 }
 
 .button1:hover {
     background-color: #6859AF;
     color: white;
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.48), 0 17px 50px 0 rgba(0,0,0,0.38);
+    box-shadow: 0 10px 14px 0 rgba(0,0,0,0.48), 0 13px 30px 0 rgba(0,0,0,0.50);
 }
