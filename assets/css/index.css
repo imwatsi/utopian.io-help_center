@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  background: silver;
+  text-align: left;
+}
+
+/* Style the header */
+.header {
+    background: linear-gradient(to bottom, rgba(80,73,113,1), rgba(58,54,79,1));
+    padding: 20px;
+    color: #CDC5F2;
+    text-align: center;
+}
+
+.logo_div {
+   width:80vw;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 0;
+}
+
+.logo_img {
+   max-width:100%;
+   height:auto;
+   max-height:100%;
+}
+
+/* Style the footer */
+.footer {
+    background-color: rgba(44,44,44,0.5);
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    background-color: #6859BF;
+    border: none;
+    width: 180px;
+    height: 180px;
+    color: silver;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: rgba(80,73,113,0.25);
+    color: black;
+    border: none;
+}
+
+.button1:hover {
+    background-color: #6859AF;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.48), 0 17px 50px 0 rgba(0,0,0,0.38);
+}
