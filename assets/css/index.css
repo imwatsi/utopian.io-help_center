@@ -20,9 +20,9 @@ body {
 }
 
 .logo_img {
-   max-width:80%;
-   height:auto;
-   max-height:80%;
+    max-width:80%;
+    height:auto;
+    max-height:80%;
 }
 
 /* Style the footer */
@@ -32,7 +32,7 @@ body {
     bottom: 0;
     left: 0;
     padding: 1rem;
-    background-color: rgba(44,44,44,0.5);
+    background-color: rgba(22,22,22,0.3);
     padding: 10px;
     text-align: center;
 }
@@ -55,14 +55,14 @@ body {
 }
 
 .button1 {
-    background-color: rgba(80,73,113,0.60);
+    background-color: rgba(125,35,255,0.15);
     color: black;
     border: none;
     box-shadow: 0 8px 12px 0 rgba(0,0,0,0.16), 0 11px 25px 0 rgba(0,0,0,0.25);
 }
 
 .button1:hover {
-    background-color: #6859AF;
-    color: white;
+    background-color: rgba(240,240,240,0.35);
+    color: black;
     box-shadow: 0 10px 14px 0 rgba(0,0,0,0.48), 0 13px 30px 0 rgba(0,0,0,0.50);
 }
