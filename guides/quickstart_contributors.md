@@ -119,15 +119,15 @@ This page allows you to customize your experience on Utopian. Currently, there i
 
 To start writing a post, click on the blue button with a **+** that’s in the top right area of the page
 
-![write_new-button](../assets/img/write_new-button.jpeg)
+![write_new-button](../assets/img/write_new-button.png)
 
 or click **+ New Contribution** in the left side menu
 
-![write_new-sidemenu](../assets/img/write_new-sidemenu.jpeg)
+![write_new-sidemenu](../assets/img/write_new-sidemenu.png)
 
 or click **New Contribution** in the top right menu
 
-![write_new-menu](../assets/img/write_new-menu.jpeg)
+![write_new-menu](../assets/img/menu_main.png)
 
 You will be taken to a page where you are asked to choose a category. Pick the category that’s most suitable for your contribution. You can read the rules that are shown for each category to make the right decision. Once you’ve picked the right category, click **I understand. Proceed.**
 

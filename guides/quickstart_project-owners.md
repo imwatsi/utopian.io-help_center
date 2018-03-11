@@ -130,14 +130,6 @@ You can view the contributions made to any of your projects by navigating to the
 
 ---
 
-## The chat feature
-
-Utopian has a chat feature that makes it possible to communicate in real time with the contributors you’re working with. Click the blue chat button in the bottom-right of the page to start chatting.
-
-![chat-button](../assets/img/chat-button.jpeg)
-
----
-
 ## Viewing the contributions
 
 On a particular project’s page, you can view all contributions made to it and filter your results by category. Just choose what you want to see on the navigation menu.
