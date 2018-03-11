@@ -16,15 +16,17 @@ But before you start contributing, take some time and browse through the contrib
 
 ### Your home page
 
-![basics_overview](../assets/img/basics_overview.jpeg)
+![basics_overview](../assets/img/basics_overview.png)
 
 Your Utopian home page or profile page is like your dashboard, where you can see a list of all the contributions you’ve made and a brief summary of your profile. You can view your home page by clicking your profile picture avatar in the top right corner.
 
 #### Contributions
 
-![basics_contributions](../assets/img/basics_contributions.jpeg)
+![basics_contributions](../assets/img/basics_contributions.png)
 
-The section lists all the contributions you submitted to Utopian that **were reviewed and accepted by the moderators**. Each entry shows the contribution title, when it was published, the total number of likes and comments it has and how much it has earned in dollar terms. The number next to your username is your [reputation score](#).
+The section lists all the contributions you submitted to Utopian. The default tab is **All**, which shows you all of the contributions you have made on Utopian. **Reviewed** shows you all the contributions that were *accepted* by the Utopian moderators. **Rejected** shows you contributions you made that were *rejected* by the moderators. **Pending** shows you the contributions that are yet to be reviewed by the moderators.
+
+Each entry shows the contribution title, when it was published, the total number of likes and comments it has and how much it has earned in dollar terms. The number next to your username is your [reputation score](#).
 
 #### GitHub integration
 
@@ -34,9 +36,9 @@ We recommend linking your GitHub account to your Utopian account so that you can
 
 #### User Profile
 
-![basics_profile1](../assets/img/basics_profile1.jpeg)
+![basics_profile1](../assets/img/basics_profile1.png)
 
-![basics_profile2](../assets/img/basics_profile2.jpeg)
+![basics_profile2](../assets/img/basics_profile2.png)
 
 This section shows your name, profile picture, “about me” text, when your Steem account was created and your current [voting power](../kb/utopian-steem/voting-power.md).
 
@@ -44,7 +46,7 @@ This section shows your name, profile picture, “about me” text, when your St
 
 ### The menu
 
-![menu_main](../assets/img/menu_main.jpeg)
+![menu_main](../assets/img/menu_main.png)
 
 Located in the top right corner is the menu button, which gives you a list of useful actions you can take on Utopian.
 
@@ -52,17 +54,10 @@ Located in the top right corner is the menu button, which gives you a list of us
 
 This takes you to a page where you can begin writing a new post.
 
-#### New blog post
-
-Write a new blog post about Open Source related reflections, opinions or events.
-
 #### Activity
 
 See your Steem account’s activity in detail, on [steemd.com](https://steemd.com).
 
-#### Bookmarks
-
-See a list of posts that you have bookmarked in Utopian.
 
 #### Drafts
 
@@ -80,7 +75,7 @@ This signs you out of Utopian. When signing back in, you will be redirected to S
 
 ### The Utopian feed
 
-![feed_main](../assets/img/feed_main.jpeg)
+![feed_main](../assets/img/feed_main.png)
 
 Clicking on the Utopian logo in the top left corner, or clicking “Contributions” in the left sidemenu, will take you to the Utopian feed, where you will find a list of all the recent contributions made on Utopian. Each contribution item shows the contribution tile, its author, the total number of likes and comments it received and how much it has earned in dollars.
 
@@ -88,7 +83,7 @@ Clicking on the Utopian logo in the top left corner, or clicking “Contribution
 
 You can filter your list by choosing a category from the menu just above the contributions list:
 
-![feed_filters](../assets/img/feed_filters.jpeg)
+![feed_filters](../assets/img/feed_filters.png)
 
 The options consist of categories into which contributions are made, such as: Suggestions, Sub-Projects, Development, Bug Hunting, etc.
 
@@ -96,15 +91,15 @@ The options consist of categories into which contributions are made, such as: Su
 
 When browsing Utopian on laptop or desktop, a sidemenu appears to the left of the screen:
 
-![feed_sidemenu](../assets/img/feed_sidemenu.jpeg)
+![feed_sidemenu](../assets/img/feed_sidemenu.png)
 
-This menu gives quick access to useful areas of the site such as your contributions, blog posts and a link to where you can find task requests. [Learn more about task requests and contributing on Utopian](../kb/contributors/about-contributing.md).
+This menu gives quick access to useful areas of the site such as your profile, wallet, blog posts and a link to where you can find task requests. [Learn more about task requests and contributing on Utopian](../kb/contributors/about-contributing.md).
 
 <br>
 
 ### Search
 
-![search_bar](../assets/img/search_bar.jpeg)
+![search_bar](../assets/img/search_bar.png)
 
 A search bar is located right at the top of the page and you can use it to search for projects or contributions in various categories. Use it to find projects or contributions by keyword, or to find something specific.
 
@@ -115,14 +110,6 @@ A search bar is located right at the top of the page and you can use it to searc
 ![settings](../assets/img/settings.jpeg)
 
 This page allows you to customize your experience on Utopian. Currently, there is only the option to change your default voting strength, but more options will be made available soon. Utopian is rapidly developing and many changes are planned as it transitions out of beta.
-
-<br>
-
-### The chat feature
-
-Utopian has a chat feature that makes it possible to communicate in real time with project owners and other contributors you’re working with. Click the blue chat button in the bottom-right of the page to start chatting.
-
-![chat-button](../assets/img/chat-button.jpeg)
 
 ---
 
