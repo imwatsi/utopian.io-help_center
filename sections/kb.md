@@ -21,7 +21,7 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 
 - [Utopian is built on top of Steem](../kb/utopian-steem/utopian-is-built-on-top-of-steem.md)
 - [Reputation](../kb/utopian-steem/reputation.md)
-- The currencies involved
+- [The currencies involved](../kb/utopian-steem/the-currencies-involved.md)
 - [Steem Power](../kb/utopian-steem/steem-power.md)
 - [Voting power](../kb/utopian-steem/voting-power.md)
 - Steem's economic value
