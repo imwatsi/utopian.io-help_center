@@ -10,11 +10,10 @@ Comprehensive documentation of the utility that Utopian gives to users with tips
 - [The Utopian edge](../kb/contributors/the-utopian-edge_contributors.md)
 - Contributor etiquette
 
-
 ### Managing projects on Utopian
 
 - [About managing projects on Utopian](../kb/project-owners/about-managing.md)
-- The Utopian edge
+- [The Utopian edge](../kb/contributors/the-utopian-edge_owners.md)
 - Creating effective task requests
 - Project sponsorship
 
