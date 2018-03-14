@@ -19,12 +19,20 @@ A Steem account has a hierarchical key structure, with four different types of p
 
 ## Know your way around
 
+### Wallet page
+
+Clicking **Wallet** on either the side navigation menu or the top menu will take you to your Wallet page on Utopian. This page shows you the current status of your Steem wallet (how much of the currencies you hold and a brief history of your transactions). It also shows you how much the STEEM and SBD currencies are trading for on the cryptocurrency markets.
+
+From this page, you can make transfers of either STEEM or SBD to other Steem accounts. To perform other actions such as powering down your account, you'll need to go to [steemit.com](https://steemit.com) and access your wallet from there.
+
+## Performing other actions
+
 To avoid making mistakes with your Steem wallet, it helps to know your way around the wallet. Knowing how to perform actions in a safe manner will help you avoid costly mistakes. Your Steem wallet contains real and valuable currency and you should take care when using it.
 
 The following tutorials will help you learn how to manage your Steem wallet:
 
 - [Changing your master password/owner key](../tutorials/changing-your-master-password-owner-key.md)
 - Powering up your Steem account
-- Powering down your Steem account
+- [Powering down your Steem account](../tutorials/powering-down-your-steem-account.md)
 - Transferring STEEM or SBD to another Steem account
 - Exchanging STEEM/SBD on the internal market

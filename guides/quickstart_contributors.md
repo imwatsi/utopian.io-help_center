@@ -97,6 +97,18 @@ This menu gives quick access to useful areas of the site such as your profile, w
 
 <br>
 
+### Wallet page
+
+Clicking **Wallet** on either the side navigation menu or the top menu will take you to your Wallet page on Utopian.
+
+![wallet-page](../assets/img/wallet-page.png)
+
+This page shows you the current status of your Steem wallet (how much of the currencies you hold and a brief history of your transactions). It also shows you how much the STEEM and SBD currencies are trading for on the cryptocurrency markets.
+
+From this page, you can make transfers of either STEEM or SBD to other Steem accounts. To perform other actions such as powering down your account, you'll need to go to [steemit.com](https://steemit.com) and access your wallet from there.
+
+<br>
+
 ### Search
 
 ![search_bar](../assets/img/search_bar.png)
