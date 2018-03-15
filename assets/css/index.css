@@ -10,7 +10,7 @@ body {
 .animate3,
 .animate4 {
 
-    animation-duration: 6s;
+    animation-duration: 5s;
     animation-timing-function:ease-in;
 }
 
@@ -20,20 +20,20 @@ body {
 .animate4 {animation-name: anim-4}
 
 @keyframes anim-1 {
-    0%, 20% {opacity: 0; }
-  20%, 40% { opacity: 1; }
+    0%, 40% {opacity: 0; }
+  40%, 55% { opacity: 1; }
 }
 @keyframes anim-2 {
-    0%, 40% {opacity: 0; }
-  40%, 60% { opacity: 1; }
+    0%, 55% {opacity: 0; }
+  55%, 70% { opacity: 1; }
 }
 @keyframes anim-3 {
-    0%, 60% {opacity: 0; }
-  60%, 80% { opacity: 1; }
+    0%, 70% {opacity: 0; }
+  70%, 85% { opacity: 1; }
 }
 @keyframes anim-4 {
-    0%, 80% {opacity: 0; }
-  80%, 100% { opacity: 1; }
+    0%, 85% {opacity: 0; }
+  85%, 100% { opacity: 1; }
 }
 
 /* Style the header */
