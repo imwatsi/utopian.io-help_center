@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: silver;
+  background: #e5e8e8;
   text-align: left;
 }
 
@@ -10,7 +10,7 @@ body {
 .animate3,
 .animate4 {
 
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-timing-function:ease-in;
 }
 
@@ -55,18 +55,6 @@ body {
     max-width:80%;
     height:auto;
     max-height:80%;
-}
-
-/* Style the footer */
-.footer {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 1rem;
-    background-color: rgba(22,22,22,0.3);
-    padding: 10px;
-    text-align: center;
 }
 
 .button {
