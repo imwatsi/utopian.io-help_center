@@ -8,4 +8,4 @@ Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency
 - [Poloniex](https://poloniex.com/exchange/#btc_steem)
 - [GOPAX](https://www.gopax.co.kr/exchange?market=STEEM/KRW)
 
-Or you can use [Blocktrades](https://blocktrades.us/), which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.
+Or you can use [Blocktrades](https://blocktrades.us/?input_coin_type=eth&output_coin_type=steem), which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.
