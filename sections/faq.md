@@ -20,6 +20,7 @@
 - [Why are some contributions rewarded more/less?](../faq/why-are-some-contributions-rewarded-more-less.md)
 - [Why do some projects pay more than others?](../faq/why-do-some-projects-pay-more-than-others.md)
 - [When will the Utopian bot upvote my contribution?](../faq/when-will-the-utopian-bot-upvote-my-contribution.md)
+- [My contribution's rewards have been removed. Why?](../faq/my-contributions-rewards-have-been-removed-why.md)
 
 ### Sharing contributions
 
