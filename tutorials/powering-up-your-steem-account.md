@@ -40,9 +40,7 @@ STEEM can be purchased from cryptocurrency exchanges, withdrawn and sent to your
 One Steem account can also power up another one by converting STEEM to Steem Power. To do this:
 
 - Go through the steps described above to get to the power up window.
-
 - Click **Advanced** and the window will expand to include more details.
-
 - Write the name of the account you wish to power up in the field labelled **To**.
 
 ![power-up3](../assets/img/tut_power-up3.png)

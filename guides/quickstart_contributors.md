@@ -26,7 +26,7 @@ Your Utopian home page or profile page is like your dashboard, where you can see
 
 The section lists all the contributions you submitted to Utopian. The default tab is **All**, which shows you all of the contributions you have made on Utopian. **Reviewed** shows you all the contributions that were *accepted* by the Utopian moderators. **Rejected** shows you contributions you made that were *rejected* by the moderators. **Pending** shows you the contributions that are yet to be reviewed by the moderators.
 
-Each entry shows the contribution title, when it was published, the total number of likes and comments it has and how much it has earned in dollar terms. The number next to your username is your [reputation score](#).
+Each entry shows the contribution title, when it was published, the total number of likes and comments it has and how much it has earned in dollar terms. The number next to your username is your [reputation score](../kb/utopian-steem/reputation.md).
 
 #### GitHub integration
 
