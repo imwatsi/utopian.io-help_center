@@ -54,7 +54,6 @@ Choose the one most appropriate for your task request and read the rules so that
 
 Once you have read the rules and understood them, click **I understand. Proceed.** You'll be taken to the task request editor.
 
-[Learn more about creating effective task requests](#)
 
 <br>
 
@@ -124,7 +123,7 @@ They will leave a comment on your post if your submission needs to be corrected 
 
 ### Contributor responses
 
-Your approved task request will be visible to contributors on Utopian and people browsing task requests by category can see your post. Interested contributors may get in touch with you and comment on your post or contact you via chat. Depending on the nature of your task request, some might start submitting contributions to your project.
+Your approved task request will be visible to contributors on Utopian and people browsing task requests by category can see your post. Interested contributors may get in touch with you and comment on your post or contact you via any other means you provided.
 
 You can view the contributions made to any of your projects by navigating to the **Projects** page (as explained above) and selecting the individual project.
 
@@ -140,21 +139,17 @@ Using Utopian, you can manage all the work done and collaborate with the people 
 
 ---
 
-## Rewarding contributions
+## Reviewing contributions
 
-Utopian rewards every contribution that passes moderator review and gets published. The platform also gives project owners the opportunity to increase the rewards distributed to their contributors through the Sponsorship module.
+As a Project Owner, you have the ability to influence how your contributors are rewarded. You can do this in a number of ways:
 
-<br>
+### Scoring
 
-### Sponsorship module
+Utopian has a scoring system that you can use to rate the quality of contributions in relation to how useful they are to your project. These scores are then used to determine the amount of rewards distributed to the various contributions.
 
-Rewards on the Steem blockchain are passed on to other people through voting, and the amount of [Steem Power](../kb/utopian-steem/steem-power.md) an account has affects the power of its vote. The more the Steem Power, the more valuable the vote is.
+###  Picking a 'Solver'
 
-![projects_sponsorship](../assets/img/projects_sponsorship.jpeg)
-
-The Sponsorship module (found on the right side of the screen) enables project owners to increase rewards by allowing them or other sponsors to delegate Steem Power to their project. In order to delegate Steem Power, an account must be powered up first.
-
-To power up a Steem account, one needs to buy STEEM tokens and then transfer them to his/her account, and then commit that STEEM to a 13 week vesting contract which is called **Steem Power**. [Learn how to power up your Steem account](#).
+When you make a task request on Utopian, it may get a number of different contributions and as a Project Owner, you can select one contribution that meets your needs best and mark it as a **Solver**. The contribution you pick will receive a higher reward for its excellence.
 
 <br>
 
